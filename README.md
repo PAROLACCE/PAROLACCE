@@ -1,16 +1,101 @@
-### Hi there 👋
-
-<!--
-**PAROLACCE/PAROLACCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#EXTM3U
+#EXTINF:-1, DAZN 4
+http://93.48.34.164:8000/play/57765
+#EXTINF:-1, DAZN SERIE A E B SPORT HD
+http://93.48.34.164:8000/play/0'98097
+#EXTINF:-1, INVESTIGATION FHD
+http://93.48.34.164:8000/play/3333434
+#EXTINF:-1, SKY CINEMA ACTION HD
+http://93.48.34.164:8000/play/8678
+#EXTINF:-1, SKY CINEMA DUE HD
+http://93.48.34.164:8000/play/67666
+#EXTINF:-1, SKY CINEMA ROMANCE HD
+http://93.48.34.164:8000/play/98664
+#EXTINF:-1, SKY CINEMA SUSPENSE HD
+http://93.48.34.164:8000/play/75899
+#EXTINF:-1,DAZN 3
+http://93.48.34.164:8000/play/687879
+#EXTINF:-1,FOX
+http://93.48.34.164:8000/play/a004
+#EXTINF:-1,Premium Action
+http://93.48.34.164:8000/play/a00e
+#EXTINF:-1,Premium Cinema 1
+http://93.48.34.164:8000/play/a01m
+#EXTINF:-1,Premium Cinema 2
+http://93.48.34.164:8000/play/a01n
+#EXTINF:-1,Premium Cinema 3
+http://93.48.34.164:8000/play/a00b
+#EXTINF:-1,Premium Crime
+http://93.48.34.164:8000/play/a009
+#EXTINF:-1,Premium Stories
+http://93.48.34.164:8000/play/a008
+#EXTINF:-1,Rai 1
+http://93.48.34.164:8000/play/a02c
+#EXTINF:-1,Rai 1 (clone)
+http://93.48.34.164:8000/play/a02p
+#EXTINF:-1,Rai 1 HD
+http://93.48.34.164:8000/play/a02i
+#EXTINF:-1,Rai 2
+http://93.48.34.164:8000/play/a02d
+#EXTINF:-1,Rai 3 TGR Campania
+http://93.48.34.164:8000/play/a02e
+#EXTINF:-1,Rai 4
+http://93.48.34.164:8000/play/a02m
+#EXTINF:-1,Rai Gulp
+http://93.48.34.164:8000/play/a02j
+#EXTINF:-1,Rai Movie
+http://93.48.34.164:8000/play/a02h
+#EXTINF:-1,Rai News 24
+http://93.48.34.164:8000/play/a02f
+#EXTINF:-1,Rai Premium
+http://93.48.34.164:8000/play/a02l
+#EXTINF:-1,Rai Sport + HD
+http://93.48.34.164:8000/play/a02g
+#EXTINF:-1,Rai YoYo
+http://93.48.34.164:8000/play/a02k
+#EXTINF:-1,SKY CINEMA ACTION HD
+http://93.48.34.164:8000/play/87897
+#EXTINF:-1,SKY CINEMA COLLECTION HD
+http://93.48.34.164:8000/play/111232
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://93.48.34.164:8000/play/23434
+#EXTINF:-1,SKY CINEMA DRAMA HD
+http://93.48.34.164:8000/play/08766
+#EXTINF:-1,SKY SERIES HD
+http://93.48.34.164:8000/play/87986
+#EXTINF:-1,SKY SPORT ARENA HD
+http://93.48.34.164:8000/play/26
+#EXTINF:-1,SKY SPORT FOOTBALL HD
+http://93.48.34.164:8000/play/3547554
+#EXTINF:-1,SKY SPORT FORMULA 1 HD
+http://93.48.34.164:8000/play/457558
+#EXTINF:-1,SKY SPORT MOTOGP HD
+http://93.48.34.164:8000/play/23
+#EXTINF:-1,SKY SPORT NBA HD
+http://93.48.34.164:8000/play/555566777
+#EXTINF:-1,SKY SPORT UNO HD
+http://93.48.34.164:8000/play/25
+#EXTINF:-1,Sky Atlantic
+http://93.48.34.164:8000/play/a003
+#EXTINF:-1,Sky Sport
+http://93.48.34.164:8000/play/a020
+#EXTINF:-1,Sky Sport 24
+http://93.48.34.164:8000/play/a028
+#EXTINF:-1,Sky Sport Calcio
+http://93.48.34.164:8000/play/a00d
+#EXTINF:-1,Sky Sport Calcio HD
+http://93.48.34.164:8000/play/a00a
+#EXTINF:-1,Sky Sport Uno
+http://93.48.34.164:8000/play/a00g
+#EXTINF:-1,Sky Sport Uno HD
+http://93.48.34.164:8000/play/a01p
+#EXTINF:-1,Sky TG24
+http://93.48.34.164:8000/play/a006
+#EXTINF:-1,Sky Uno
+http://93.48.34.164:8000/play/a00j
+#EXTINF:-1,Sportitalia
+http://93.48.34.164:8000/play/a01o
+#EXTINF:-1,dazn 2
+http://93.48.34.164:8000/play/55645
+#EXTINF:-1,dazn1
+http://93.48.34.164:8000/play/788
